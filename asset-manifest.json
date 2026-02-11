@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/trabalho-integrador-cronograma/static/css/main.9865e0fc.css",
-    "main.js": "/trabalho-integrador-cronograma/static/js/main.ed66545f.js",
-    "static/js/453.b79b33d7.chunk.js": "/trabalho-integrador-cronograma/static/js/453.b79b33d7.chunk.js",
-    "static/media/bootstrap-icons.woff?": "/trabalho-integrador-cronograma/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
-    "static/media/bootstrap-icons.woff2?": "/trabalho-integrador-cronograma/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
-    "index.html": "/trabalho-integrador-cronograma/index.html",
-    "main.9865e0fc.css.map": "/trabalho-integrador-cronograma/static/css/main.9865e0fc.css.map",
-    "main.ed66545f.js.map": "/trabalho-integrador-cronograma/static/js/main.ed66545f.js.map",
-    "453.b79b33d7.chunk.js.map": "/trabalho-integrador-cronograma/static/js/453.b79b33d7.chunk.js.map"
+    "main.css": "/trabalho-integrador-cronograma-main/static/css/main.104c7d24.css",
+    "main.js": "/trabalho-integrador-cronograma-main/static/js/main.37b8882a.js",
+    "static/js/453.b79b33d7.chunk.js": "/trabalho-integrador-cronograma-main/static/js/453.b79b33d7.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/trabalho-integrador-cronograma-main/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/trabalho-integrador-cronograma-main/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "index.html": "/trabalho-integrador-cronograma-main/index.html",
+    "main.104c7d24.css.map": "/trabalho-integrador-cronograma-main/static/css/main.104c7d24.css.map",
+    "main.37b8882a.js.map": "/trabalho-integrador-cronograma-main/static/js/main.37b8882a.js.map",
+    "453.b79b33d7.chunk.js.map": "/trabalho-integrador-cronograma-main/static/js/453.b79b33d7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9865e0fc.css",
-    "static/js/main.ed66545f.js"
+    "static/css/main.104c7d24.css",
+    "static/js/main.37b8882a.js"
   ]
 }
